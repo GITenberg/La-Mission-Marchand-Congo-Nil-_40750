@@ -1,0 +1,31 @@
+_repo: La-Mission-Marchand-Congo-Nil-_40750
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40750-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ivoi, Paul d'
+    aliases:
+    - D'Ivoi, Paul
+    - Deleutre, Paul Charles Philippe Eric
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '40808'
+    url: http://www.gutenberg.org/2009/agents/40808
+description: ''
+gutenberg_bookshelf: FR Guerres
+gutenberg_issued: '2012-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40750'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mission Marchand (1896-1899)'
+- !lcc 'DT'
+- !lcsh 'Africa, Central -- Discovery and exploration'
+title: 'Les grands explorateurs: La Mission Marchand (Congo-Nil)'
+url: http://www.gutenberg.org/ebooks/40750
