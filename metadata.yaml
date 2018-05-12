@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40808'
     url: http://www.gutenberg.org/2009/agents/40808
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40750#La-Mission-Marchand-Congo-Nil-
 gutenberg_bookshelf: FR Guerres
 gutenberg_issued: '2012-09-13'
 gutenberg_type: Text
